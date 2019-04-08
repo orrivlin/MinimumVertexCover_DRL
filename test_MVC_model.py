@@ -27,7 +27,7 @@ if cuda_flag:
     NN = ACNet(ndim,264,1).cuda()
 else:
     NN = ACNet(ndim,264,1)
-PATH = 'saved_models\mvc_net.pt'
+PATH = 'mvc_net.pt'
 NN.load_state_dict(torch.load(PATH))
 
 init_state,done = mvc.reset()
