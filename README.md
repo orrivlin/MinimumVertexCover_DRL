@@ -6,7 +6,7 @@ This code requires installing DGL ([Deep Graph Library](https://www.dgl.ai/)).
 
 I have also written a [Medium article](https://towardsdatascience.com/reinforcement-learning-for-combinatorial-optimization-d1402e396e91) on the subject of reinforcement learning for combinatorial optimization, feel free to check it out.
 
-Below are some comparisons of solution created by the neural network policy (upper ones) and those created by a greedy heuristic (lower):
+Below are some comparisons of solutions created by the neural network policy (upper ones) and those created by a greedy heuristic (lower):
 
 ![alt text](https://user-images.githubusercontent.com/46422351/55738243-6b335600-5a2f-11e9-8c38-05aeea86c378.PNG)
 
