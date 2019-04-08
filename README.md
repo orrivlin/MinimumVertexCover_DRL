@@ -8,7 +8,11 @@ Below are some comparisons of solution created by the neural network policy (upp
 
 ![alt text](https://user-images.githubusercontent.com/46422351/55738243-6b335600-5a2f-11e9-8c38-05aeea86c378.PNG)
 
+---------------------------------------------------------------------------------------------------------------
+
 ![alt text](https://user-images.githubusercontent.com/46422351/55738229-61a9ee00-5a2f-11e9-93ef-2eac34fc4800.PNG)
+
+---------------------------------------------------------------------------------------------------------------
 
 ![alt text](https://user-images.githubusercontent.com/46422351/55738172-3fb06b80-5a2f-11e9-850b-67e5dce712d0.PNG)
 
